@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-<h1>Hey! Nice to see you. <img src="https://user-images.githubusercontent.com/70050528/189470314-11fd622d-170e-4364-b975-4c57166a2c97.png" width="50"/> </h1>
+<h1>Hey! Nice to see you. 
 
 
 <p>Welcome to my page! </br> I'm 설유찬, Student from Dongyang Mirae Univ. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/>
