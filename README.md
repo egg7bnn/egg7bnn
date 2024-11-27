@@ -22,16 +22,15 @@ Here are some ideas to get you started:
 <p>Welcome to my page! </br> I'm 설유찬, Student from Dongyang Mirae Univ. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/>
 
 
-### 깃헙 꾸미기 참조
-- [드림코딩, 깃허브 계정 제대로 꾸미기](https://www.youtube.com/watch?v=w9DfC2BHGPA)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=egg7bnn&show_icons=true&count_private=true" align="center" /></div>  
 
-### 참조 깃헙 계정
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/)
-- [Thomas](https://github.com/thmsgbrt)
-- [Thaiane Braga](https://github.com/thaiane)
-- [swyx](https://github.com/sw-yx) 
-- [coordinate-cat](https://github.com/coordinate-cat)
-- [dream-ellie](https://github.com/dream-ellie)
+<br/>  
 
-### 뱃지 만들기
-- [shields io](https://shields.io/) 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=egg7bnn&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
